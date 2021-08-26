@@ -1,6 +1,8 @@
 # appwidgetflutter
 
-A new Flutter application.
+A basic Flutter application with home screen app widgets.
+
+![](http://i.imgur.com/OUkLi.gif)
 
 ## Getting Started
 
