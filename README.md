@@ -1,6 +1,8 @@
 # appwidgetflutter
 
-A basic Flutter application with home screen app widgets.
+A basic Flutter application with home screen app widget.
+
+A modified version of basic counter app in flutter to create the home screen app widget that will show your counter's current value and get updated every time you increase your counter from the app. Also, you can update the counter from outside of the app using your widget.
 
 ![](https://github.com/ashgarg143/AppWidgetFlutter/blob/master/ezgif.com-gif-maker_11.gif)
 
