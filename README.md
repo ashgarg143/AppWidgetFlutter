@@ -2,7 +2,7 @@
 
 A basic Flutter application with home screen app widgets.
 
-![](http://i.imgur.com/OUkLi.gif)
+![](https://github.com/ashgarg143/AppWidgetFlutter/blob/master/ezgif.com-gif-maker_11.gif)
 
 ## Getting Started
 
